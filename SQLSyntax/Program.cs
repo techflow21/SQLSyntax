@@ -32,17 +32,17 @@
     }
 
     //////////////////////////////////////////////////////
-    
+
     /*INSERT INTO users(Id, FirstName, LastName, State)
     VALUES
     (1, 'John', 'Doe', 'Lagos'), 
-    (2, 'Jane', 'Doe', 'Niger'), 
+    (2, 'Jane', 'Doe', 'Oyo'), 
     (3, 'Bob', 'Smith', 'Imo'), 
     (4, 'Emma', 'Johnson', 'Lagos'), 
     (5, 'Michael', 'Brown', 'Ogun'), 
     (6, 'Emily', 'Davis', 'Plateaux'), 
     (7, 'Jacob', 'Miller', ' Ogun'), 
-    (8, 'Olivia', 'Wilson', 'Niger'), 
+    (8, 'Olivia', 'Wilson', 'Oyo'), 
     (9, 'Ethan', 'Anderson', 'Oyo'), 
     (10, 'Ava', 'Taylor', 'Lagos');*/
 
@@ -54,10 +54,28 @@
 
     //////////////////////////////////////////////////////
 
+    /*SELECT *
+    FROM users
+    WHERE age >= 18 
+    AND State = 'Lagos'*/
+
+
+    /*SELECT *
+    FROM users
+    WHERE State = 'Oyo'
+    LIMIT 2*/
+
+
+    /*SELECT TOP 2 *
+    FROM users
+    WHERE State = 'Oyo'*/
+
+    ///////////////////////////////////////////////////////
+
     /*DELETE FROM users
     WHERE Id = X;*/
 
-    //////////////////////////////////////////////////////
+    ///////////////////////////////////////////////////////
 
     internal class Order
     {
