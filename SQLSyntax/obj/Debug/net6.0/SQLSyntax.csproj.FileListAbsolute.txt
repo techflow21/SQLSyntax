@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\bin\Debug\net6.0\SQLSyntax.exe
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\bin\Debug\net6.0\SQLSyntax.deps.json
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\bin\Debug\net6.0\SQLSyntax.runtimeconfig.json
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\bin\Debug\net6.0\SQLSyntax.dll
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\bin\Debug\net6.0\SQLSyntax.pdb
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\SQLSyntax.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\SQLSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\SQLSyntax.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\SQLSyntax.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\SQLSyntax.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\SQLSyntax.dll
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\refint\SQLSyntax.dll
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\SQLSyntax.pdb
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\SQLSyntax.genruntimeconfig.cache
+C:\Users\HP\Desktop\NewM\SQLSyntax\SQLSyntax\obj\Debug\net6.0\ref\SQLSyntax.dll
