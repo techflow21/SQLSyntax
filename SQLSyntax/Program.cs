@@ -10,15 +10,23 @@
             {
                 new Person { Id = 1, Name = "Johnson", Age = 30, City = "New York" },
                 new Person { Id = 2, Name = "Janet", Age = 25, City = "Los Angeles" },
-                new Person { Id = 3, Name = "Bolade", Age = 35, City = "Chicago" }
+                new Person { Id = 3, Name = "Bolade", Age = 35, City = "Chicago" },
+                new Person { Id = 1, Name = "Adeola", Age = 30, City = "Nigeria" },
+                new Person { Id = 2, Name = "Bisi", Age = 20, City = "Chicago" },
+                new Person { Id = 3, Name = "Bolade", Age = 18, City = "Chicago" }
             };
+
 
             List<Order> orders = new List<Order>
             {
                 new Order { Id = 1, PersonId = 1, Amount = 100 },
                 new Order { Id = 2, PersonId = 2, Amount = 200 },
-                new Order { Id = 3, PersonId = 1, Amount = 300 }
+                new Order { Id = 3, PersonId = 1, Amount = 300 },
+                new Order { Id = 4, PersonId = 1, Amount = 200 },
+                new Order { Id = 5, PersonId = 2, Amount = 200 },
+                new Order { Id = 5, PersonId = 2, Amount = 600 }
             };
+
 
             var result = from person in people
                          join order in orders on person.Id equals order.Id
@@ -27,7 +35,6 @@
 
             foreach (var item in result)
                 Console.WriteLine($"\n\t Name: {item.Name}, City: {item.City}, Amount: {item.Amount}");
-
         }
     }
 
